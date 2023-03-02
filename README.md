@@ -1,7 +1,9 @@
-
+![logo](https://github.com/Tiyisela98/Tiyisela98/blob/main/Tiyisela%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tiyisela Makhuvhela</h1>
 <h3 align="center">A passionate Data Scientist from South Africa</h3>
 
+![image](https://user-images.githubusercontent.com/112703553/222470507-d11dfba5-ab66-4f2b-b4f8-7c1aeae79335.png)
+>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiyisela98" alt="tiyisela98" /></a> </p>
 
 - 🔭 I’m currently working on **Recommender system using Unsupervised Machine-Learning**
